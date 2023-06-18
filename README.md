@@ -1,2 +1,2 @@
-# yandex-projects
+# Portfolio
 Выполненные проект во время обучения 
