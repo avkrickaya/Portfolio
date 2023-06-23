@@ -16,7 +16,7 @@
 
 1. [Первичное ознакомление, анализ данных и подготовка к обучению](https://github.com/avkrickaya/Portfolio/blob/5b5fe96930a03fed0c5bb2d2cca989140a37be2f/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BE%D1%82%D0%B7%D1%8B%D0%B2%D0%BE%D0%B2/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BE%D1%82%D0%B7%D1%8B%D0%B2%D0%BE%D0%B2.ipynb#L52) :
 
-     1.1. Анализ частоты слов
+     1.1. [Анализ частоты слов](https://github.com/avkrickaya/Portfolio/blob/5b5fe96930a03fed0c5bb2d2cca989140a37be2f/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BE%D1%82%D0%B7%D1%8B%D0%B2%D0%BE%D0%B2/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BE%D1%82%D0%B7%D1%8B%D0%B2%D0%BE%D0%B2.ipynb#L629)
 
      1.2. Тематика отзывов
 
