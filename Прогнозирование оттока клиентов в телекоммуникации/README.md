@@ -6,7 +6,7 @@
 3.	[Описание данных](https://github.com/avkrickaya/Portfolio/edit/main/Прогнозирование%20оттока%20клиентов%20в%20телекоммуникации/README.md#описание-данных)
 4.	[Описание полей](https://github.com/avkrickaya/Portfolio/edit/main/Прогнозирование%20оттока%20клиентов%20в%20телекоммуникации/README.md#описание-полей)
 5.	[Используемые инструменты](https://github.com/avkrickaya/Portfolio/edit/main/Прогнозирование%20оттока%20клиентов%20в%20телекоммуникации/README.md#используемые-инструменты)
-6.	[План работы](https://github.com/avkrickaya/Portfolio/edit/main/Прогнозирование%20оттока%20клиентов%20в%20телекоммуникации/README.md#план-работы)
+6.	[План работы](https://github.com/avkrickaya/Portfolio/blob/main/Прогнозирование%20оттока%20клиентов%20в%20телекоммуникации/README.md#план-работы)
 7.	[Вывод](https://github.com/avkrickaya/Portfolio/blob/main/Прогнозирование%20оттока%20клиентов%20в%20телекоммуникации/README.md#вывод)
    
 ## Описание задачи
