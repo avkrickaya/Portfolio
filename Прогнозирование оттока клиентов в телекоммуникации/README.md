@@ -121,11 +121,11 @@ Pandas, Numpy, Matplotlib, Phik, Scipy, Sklearn, Seaborn
 
 
 * Для обучения отобрали 5 моделей:
- * RandomForestClassifier
- * CatboostClassifier
- * LGBMClassifier
- * XGBClassifier
- * AdaBoostClassifier
+  * RandomForestClassifier
+  * CatboostClassifier
+  * LGBMClassifier
+  * XGBClassifier
+  * AdaBoostClassifier
 	
 
 * При обучении и подборе гиперпараметров применялись StandardScaler(), Pipeline() и GridSearch().
