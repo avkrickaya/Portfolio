@@ -3,7 +3,7 @@
 ## Содержание:
 1.	[Описание проекта](https://github.com/avkrickaya/Portfolio/blob/main/Определение%20возраста%20покупателей/README.md#описание-проекта)
 2.	[Условия](https://github.com/avkrickaya/Portfolio/blob/main/Определение%20возраста%20покупателей/README.md#условия)
-3.	Описание данных
+3.	[Описание данных](https://github.com/avkrickaya/Portfolio/blob/main/Определение%20возраста%20покупателей/README.md#описание-данных)
 4.	Используемые инструменты
 5.	План
 6.	Вывод
