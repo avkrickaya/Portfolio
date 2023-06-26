@@ -40,6 +40,7 @@
 
 ## Используемые инструменты
 
+Pandas, Numpy, Phik, Seaborn, Sklearn, Matplotlib
 
 
 ## План работы
