@@ -1,10 +1,10 @@
 # Классификация отзывов
 
 # Содержание
-1. [Описание задачи](#описание-задач)
-2. [Описание данных](#описание-данных)
-3. [Используемые инструменты](#используемые-инструменты)
-4. [План работы](#план-работы)
+1. [Описание задачи](https://github.com/avkrickaya/Portfolio/blob/main/Классификация%20отзывов/README.md#описание-задачи)
+2. [Описание данных](https://github.com/avkrickaya/Portfolio/blob/main/Классификация%20отзывов/README.md#описание-данных)
+3. [Используемые инструменты](https://github.com/avkrickaya/Portfolio/blob/main/Классификация%20отзывов/README.md#используемые-инструменты)
+4. [План работы](https://github.com/avkrickaya/Portfolio/blob/main/Классификация%20отзывов/README.md#план-работы)
 5. [Вывод](https://github.com/avkrickaya/Portfolio/blob/main/Классификация%20отзывов/README.md#вывод)
 
 ## Описание задачи 
