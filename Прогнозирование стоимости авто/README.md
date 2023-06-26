@@ -2,7 +2,7 @@
 
 ## Содержание
 1. Описание задачи
-2. Описание данных
+2. [Описание данных](https://github.com/avkrickaya/Portfolio/blob/main/Прогнозирование%20стоимости%20авто/README.md#описание-данных)
 3. [Используемые инструменты](https://github.com/avkrickaya/Portfolio/blob/main/Прогнозирование%20стоимости%20авто/README.md#используемые-инструменты)
 4. [План работы](https://github.com/avkrickaya/Portfolio/blob/main/Прогнозирование%20стоимости%20авто/README.md#план-работы)
 5. [Вывод](https://github.com/avkrickaya/Portfolio/blob/main/Прогнозирование%20стоимости%20авто/README.md#вывод)
